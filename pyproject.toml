@@ -9,7 +9,7 @@ description = "Sample billing configuration and HTTP client service for testing 
 requires-python = ">=3.11"
 dependencies = [
     "attrs==23.2.0",
-    "httpx==0.28.0",
+    "httpx==0.28.1",
 ]
 
 [project.optional-dependencies]
